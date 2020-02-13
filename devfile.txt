@@ -1,1 +1,3 @@
 .amdnfakmd/amf/
+jks
+;afk'
